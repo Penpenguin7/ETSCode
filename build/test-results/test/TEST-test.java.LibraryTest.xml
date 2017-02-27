@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.LibraryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-02-27T00:15:33" hostname="PHI-LONG-PLAZA" time="0.015">
+  <properties/>
+  <testcase name="testAssertionsEnabled" classname="test.java.LibraryTest" time="0.0"/>
+  <testcase name="testShuffleThenDealAll" classname="test.java.LibraryTest" time="0.015"/>
+  <testcase name="testDealAll" classname="test.java.LibraryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
